@@ -1,0 +1,32 @@
+.main-heading {
+  font-family: 'Roboto';
+  font-size: 40px;
+  color: #00e7ff;
+  text-align: center;
+}
+.main-img {
+  width: 800px;
+}
+.item-container {
+  border: 2px solid #00e7ff;
+  border-radius: 10px;
+}
+.nav-container {
+  background-color: #092e33;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 30px;
+  padding-right: 30px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.nav-header {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #ffffff;
+  font-weight: 500;
+  margin-right: 30px;
+}
+.nav-sub-container {
+  display: flex;
+}
